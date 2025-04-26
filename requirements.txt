@@ -14,3 +14,4 @@ dash-renderer
 plotly
 dash-table
 pytest
+tensorflow
